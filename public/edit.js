@@ -1,5 +1,5 @@
 /**
- * RcmImageWithThumbnails
+ * RcmImageWithThumbnails rcm-image-with-thumbnail
  *
  * JS for editing RcmImageWithThumbnails
  *
