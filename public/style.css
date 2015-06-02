@@ -1,3 +1,4 @@
+/* <rcm-image-with-thumbnail> */
 
 .rcmContainer .RcmImageWithThumbnails {
     position: relative;
@@ -20,3 +21,5 @@
     display: inline-block;
 
 }
+
+/* </rcm-image-with-thumbnail> */

@@ -1,4 +1,6 @@
-//script
+/**
+ * rcm-image-with-thumbnail
+ */
 $(function () {
     $(".RcmImageWithThumbnails").find(".image").click(
         function () {

@@ -41,7 +41,13 @@ return [
                 'modules/rcm-image-with-thumbnails/' => __DIR__ . '/../public/',
             ],
             'collections' => [
-                'modules/rcm-admin/js/rcm-admin.js' => [
+                'modules/rcm/modules.js' => [
+                    'modules/rcm-image-with-thumbnails/script.js'
+                ],
+                'modules/rcm/modules.css' => [
+                    'modules/rcm-image-with-thumbnails/style.css'
+                ],
+                'modules/rcm-admin/admin.js' => [
                     'modules/rcm-image-with-thumbnails/edit.js',
                 ],
             ],
