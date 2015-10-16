@@ -1,5 +1,5 @@
 {
-  "name": "reliv/rcm-image-with-thumbnail",
+  "name": "rcm/image-with-thumbnail",
   "description": "Provides a image with thumbnail plugin for the Reliv Content Manager",
   "license": "BSD-3-Clause",
   "keywords": [
